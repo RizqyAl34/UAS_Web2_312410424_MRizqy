@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>E-Library Digital</title>
+
+    <!-- TailwindCSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- Vue 3 CDN -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+    <!-- Vue Router CDN -->
+    <script src="https://unpkg.com/vue-router@4/dist/vue-router.global.js"></script>
+
+    <!-- Axios CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body class="bg-gray-100 min-h-screen">
+
+    <div id="app"></div>
+
+    <!-- Load komponen dulu sebelum app -->
+    <script src="assets/js/components/Home.js"></script>
+    <script src="assets/js/components/Login.js"></script>
+    <script src="assets/js/components/Dashboard.js"></script>
+    <script src="assets/js/components/Buku.js"></script>
+    <script src="assets/js/components/Kategori.js"></script>
+    <script src="assets/js/components/Penulis.js"></script>
+    <script src="assets/js/components/Peminjaman.js"></script>
+
+    <!-- Router -->
+    <script src="assets/js/router.js"></script>
+
+    <!-- App utama -->
+    <script src="assets/js/app.js"></script>
+
+</body>
+</html>
