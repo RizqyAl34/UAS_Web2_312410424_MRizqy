@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost/UAS_Web2_312410424_MRizqy/public/api'
+const BASE_URL = 'https://elibrary-rizqy.rf.gd/api'
 
 // Axios interceptor — inject token otomatis ke setiap request
 axios.interceptors.request.use(config => {
