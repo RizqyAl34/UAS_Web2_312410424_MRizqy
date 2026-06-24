@@ -255,7 +255,7 @@ http://localhost/UAS_Web2_312410424_MRizqy/frontend-spa/
 | | Link |
 |---|---|
 | 🌐 Demo Aplikasi | https://elibrary-rizqy.rf.gd/frontend/index.html |
-| 🎥 Video Presentasi | [YouTube — klik di sini](https://youtube.com/LINK_VIDEO_KAMU) |
+| 🎥 Video Presentasi | [YouTube — klik di sini](https://youtu.be/2xQX65dXF9E?si=_oVZqIsUuePEwx-c) |
 | 💻 Repositori GitHub | [github.com/USERNAME/UAS_Web2_312410424_MRizqy](https://github.com/USERNAME/UAS_Web2_312410424_MRizqy) |
 
 ---
