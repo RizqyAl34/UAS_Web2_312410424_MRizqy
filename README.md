@@ -1,6 +1,6 @@
  📚 E-Library Digital — Sistem Informasi Rental Buku & Komik Digital
 ```
-**UAS Pemrograman Web 2**
+UAS Pemrograman Web 2
 Nama: M. Rizqy Al Rasyd
 NIM: 312410424
 Kelas: I241C
@@ -254,17 +254,8 @@ http://localhost/UAS_Web2_312410424_MRizqy/frontend-spa/
 
 | | Link |
 |---|---|
-| 🌐 Demo Aplikasi | `http://localhost/elibrary-frontend/` (lokal) |
+| 🌐 Demo Aplikasi | https://elibrary-rizqy.rf.gd/frontend/index.html |
 | 🎥 Video Presentasi | [YouTube — klik di sini](https://youtube.com/LINK_VIDEO_KAMU) |
 | 💻 Repositori GitHub | [github.com/USERNAME/UAS_Web2_312410424_MRizqy](https://github.com/USERNAME/UAS_Web2_312410424_MRizqy) |
 
----
-
-## 👤 Identitas Mahasiswa
-
-| | |
-|---|---|
-| **Nama** | M. Rizqy Al Rasyd |
-| **NIM** | 312410424 |
-| **Mata Kuliah** | Pemrograman Web 2 |
 ---
